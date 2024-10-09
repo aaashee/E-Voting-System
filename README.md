@@ -19,6 +19,4 @@ XAMPP Server for backend storage using PHP and MySQL.
 <h3>
 HTML CSS for frontend.
 </h3>
-<h3>
-Hosted using ngrok.
-</h3>
+
